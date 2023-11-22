@@ -1,0 +1,19 @@
+.container{
+    width: 100%;
+    min-height: 350px;
+    border: solid black;
+    background-image: url();
+}
+#heading{
+    margin-left: 32%;
+}
+#para{
+    margin-left: 39%;
+}
+.buttons{
+    width: 40%;
+    margin: auto;
+}
+.starting , .any , .a{
+    margin-left: 5%;
+}
